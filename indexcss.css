@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(96, 245, 195);
+    
+}
+.row {
+    background-color: rgb(43, 226, 134);
+    margin-bottom: 5px;
+
+}
+
+
+
+.row button {
+    border-radius: 4px;
+    margin-top: 5px;
+    background-color: blue;
+    color: white;
+    border:  1px solid white;
+}
+
+.row button:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 17, 255);
+}
